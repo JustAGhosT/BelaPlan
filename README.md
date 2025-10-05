@@ -9,61 +9,61 @@
 
 Pick the business that matches your skills, resources, and interests:
 
-### 🧱 [Brick Making](guides/brick-making.md)
+### 🧱 [Brick Making](guides/brick-making/)
 Make money building materials: Adobe, Fired, and Compressed bricks
 - **Start with:** $50-200
 - **Skills needed:** Basic labor, attention to detail
 - **Time to profit:** 2-4 weeks
 
-### 🌾 [Farming](guides/farming.md)
+### 🌾 [Farming](guides/farming/)
 Grow food and crops for sale
 - **Start with:** $20-100
 - **Skills needed:** Basic gardening knowledge
 - **Time to profit:** 1-3 months
 
-### 🐓 [Animal Raising](guides/animal-raising.md)
+### 🐓 [Animal Raising](guides/animal-raising/)
 Raise chickens, goats, pigs, or rabbits
 - **Start with:** $30-150
 - **Skills needed:** Animal care basics
 - **Time to profit:** 2-6 months
 
-### 🍲 [Food Business](guides/food-business.md)
+### 🍲 [Food Business](guides/food-business/)
 Prepare and sell food from home or market
 - **Start with:** $20-100
 - **Skills needed:** Cooking ability
 - **Time to profit:** 1-2 weeks
 
-### 👔 [Tailoring](guides/tailoring.md)
+### 👔 [Tailoring](guides/tailoring/)
 Sew and repair clothes
 - **Start with:** $50-200
 - **Skills needed:** Basic sewing
 - **Time to profit:** 2-4 weeks
 
-### 🔨 [Carpentry](guides/carpentry.md)
+### 🔨 [Carpentry](guides/carpentry/)
 Build furniture and wooden items
 - **Start with:** $30-150
 - **Skills needed:** Basic woodworking
 - **Time to profit:** 2-4 weeks
 
-### 🔧 [Repairs](guides/repairs.md)
+### 🔧 [Repairs](guides/repairs/)
 Fix bikes, electronics, shoes, and tools
 - **Start with:** $20-100
 - **Skills needed:** Problem-solving, manual skills
 - **Time to profit:** 1-2 weeks
 
-### 🏪 [Shop Keeping](guides/shop-keeping.md)
+### 🏪 [Shop Keeping](guides/shop-keeping/)
 Run a small store from home or kiosk
 - **Start with:** $50-300
 - **Skills needed:** Basic math, customer service
 - **Time to profit:** Immediate
 
-### 🚲 [Transport](guides/transport.md)
+### 🚲 [Transport](guides/transport/)
 Move people or goods by bike, motorcycle, or vehicle
 - **Start with:** $100-500 (or rent)
 - **Skills needed:** Driving/riding ability
 - **Time to profit:** Immediate
 
-### 🛠️ [Services](guides/services.md)
+### 🛠️ [Services](guides/services/)
 Offer cleaning, laundry, hair cutting, or other services
 - **Start with:** $10-50
 - **Skills needed:** Varies by service

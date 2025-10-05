@@ -6,10 +6,44 @@
 
 ---
 
-## 📊 Three Types of Bricks You Can Make
+## 📚 Complete Guide Contents
+
+This comprehensive guide covers all aspects of brick making for profit. Choose your path based on your budget and experience:
+
+### [📖 Adobe Bricks (Sun-Dried) - Complete Guide →](adobe-bricks.md)
+**Best for beginners** - Detailed guide on making sun-dried bricks
+- Complete material lists and costs
+- Step-by-step mold building
+- Soil testing techniques  
+- Perfect mixing recipes
+- Day-by-day drying process
+- Troubleshooting guide
+
+### [📖 Fired Bricks (Kiln) - Complete Guide →](fired-bricks.md)
+**For experienced makers** - Professional fired brick production
+- Kiln construction plans
+- Hour-by-hour firing schedule
+- Temperature management without thermometer
+- Fuel cost optimization
+- Quality grading system
+- Production records templates
+
+### [📖 Compressed Bricks (Machine) - Complete Guide →](compressed-bricks.md)
+**Modern method** - Fast, eco-friendly brick making
+- Machine selection guide
+- Precise mixture ratios
+- Curing process details
+- Quality control checklist
+- Scaling strategies
+- Value-added options (colored, interlocking)
+
+---
+
+## 📊 Quick Comparison - Three Types of Bricks
 
 ### 1. Adobe Bricks (Sun-Dried Bricks) 🌞
 **Easiest to start - No special equipment needed**
+👉 **[Read Complete Adobe Guide](adobe-bricks.md)**
 
 #### What You Need:
 - **Materials:** Clay soil, water, straw or grass
@@ -40,6 +74,7 @@
 
 ### 2. Fired Bricks (Kiln Bricks) 🔥
 **Stronger bricks - Need more investment**
+👉 **[Read Complete Fired Bricks Guide](fired-bricks.md)**
 
 #### What You Need:
 - **Materials:** Clay soil, water, fuel (wood, coal, or waste)
@@ -70,6 +105,7 @@
 
 ### 3. Compressed Bricks (Machine Bricks) 💪
 **Fastest method - Need machine investment**
+👉 **[Read Complete Compressed Bricks Guide](compressed-bricks.md)**
 
 #### What You Need:
 - **Materials:** Clay soil, cement (small amount), water
