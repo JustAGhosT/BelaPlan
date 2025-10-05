@@ -15,9 +15,9 @@
 
 **What You Need:**
 - **Land:** Small plot (5m x 5m enough to start)
-- **Seeds:** $5-10
+- **Seeds:** R5-10
 - **Tools:** Hoe, watering can, bucket
-- **Money to start:** $20-40
+- **Money to start:** R20-40
 
 **Steps:**
 1. **Prepare soil** - Clear weeds, dig/turn soil
@@ -27,10 +27,10 @@
 5. **Harvest** - 30-45 days, when leaves big enough
 
 **Profit:**
-- **Cost:** $20-40 total
+- **Cost:** R20-40 total
 - **Harvest:** 20-30 kg per 5m x 5m
-- **Sell:** $1-2 per kg
-- **Profit:** $20-60 per harvest
+- **Sell:** R1-2 per kg
+- **Profit:** R20-60 per harvest
 - **Can plant:** Every 2 months
 
 ---
@@ -42,7 +42,7 @@
 - **Land:** 10m x 10m plot
 - **Materials:** Seeds/seedlings, stakes or sticks, string
 - **Tools:** Hoe, watering can
-- **Money to start:** $30-60
+- **Money to start:** R30-60
 
 **Steps:**
 1. **Start seedlings** - Small pots or seed bed (2-3 weeks)
@@ -53,10 +53,10 @@
 6. **Harvest** - 60-90 days, when red/yellow
 
 **Profit:**
-- **Cost:** $30-60
+- **Cost:** R30-60
 - **Harvest:** 100-200 kg
-- **Sell:** $0.50-1.50 per kg
-- **Profit:** $50-300 per harvest
+- **Sell:** R0.50-1.50 per kg
+- **Profit:** R50-300 per harvest
 
 ---
 
@@ -66,7 +66,7 @@
 **What You Need:**
 - **Land:** 10m x 10m plot
 - **Seeds:** Onion sets or seeds
-- **Money to start:** $25-50
+- **Money to start:** R25-50
 
 **Steps:**
 1. **Prepare soil** - Well-dug, flat beds
@@ -77,10 +77,10 @@
 6. **Dry** - In shade for 2 weeks before selling
 
 **Profit:**
-- **Cost:** $25-50
+- **Cost:** R25-50
 - **Harvest:** 80-150 kg
-- **Sell:** $0.70-1.50 per kg
-- **Profit:** $56-225 per harvest
+- **Sell:** R0.70-1.50 per kg
+- **Profit:** R56-225 per harvest
 
 ---
 
@@ -91,9 +91,9 @@
 
 **What You Need:**
 - **Land:** 20m x 20m minimum
-- **Seeds:** $15-30
+- **Seeds:** R15-30
 - **Fertilizer:** Optional but helps
-- **Money to start:** $40-80
+- **Money to start:** R40-80
 
 **Steps:**
 1. **Plant at rainy season start**
@@ -103,10 +103,10 @@
 5. **Dry well** - Prevent mold
 
 **Profit:**
-- **Cost:** $40-80
+- **Cost:** R40-80
 - **Harvest:** 300-600 kg
-- **Sell:** $0.30-0.60 per kg
-- **Profit:** $90-360 per harvest
+- **Sell:** R0.30-0.60 per kg
+- **Profit:** R90-360 per harvest
 
 ---
 
@@ -115,8 +115,8 @@
 
 **What You Need:**
 - **Land:** 15m x 15m
-- **Seeds:** $20-40
-- **Money to start:** $30-60
+- **Seeds:** R20-40
+- **Money to start:** R30-60
 
 **Steps:**
 1. **Plant** - 30cm spacing, 3-4 seeds per hole
@@ -125,10 +125,10 @@
 4. **Harvest** - Green beans (2 months) or dry beans (3-4 months)
 
 **Profit:**
-- **Cost:** $30-60
+- **Cost:** R30-60
 - **Harvest:** 80-150 kg
-- **Sell:** $0.80-1.50 per kg
-- **Profit:** $64-225 per harvest
+- **Sell:** R0.80-1.50 per kg
+- **Profit:** R64-225 per harvest
 
 ---
 

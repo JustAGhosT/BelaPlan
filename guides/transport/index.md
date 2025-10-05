@@ -20,7 +20,7 @@
 **What You Need:**
 - **Bicycle** - Strong frame, carrier rack
 - **Ropes/bungee cords** - Secure loads
-- **Money to start:** $30-100 (used bike OK)
+- **Money to start:** R30-100 (used bike OK)
 
 **How to Start:**
 1. **Get good bike** - Strong carrier important
@@ -30,14 +30,14 @@
 5. **Be reliable** - People remember good service
 
 **Pricing:**
-- **Market to home:** $0.50-2.00 (based on distance)
-- **Delivery services:** $1.00-3.00 per trip
-- **Water fetching:** $0.50-1.00 per jerry can
-- **Hourly rate:** $2-4 per hour
+- **Market to home:** R0.50-2.00 (based on distance)
+- **Delivery services:** R1.00-3.00 per trip
+- **Water fetching:** R0.50-1.00 per jerry can
+- **Hourly rate:** R2-4 per hour
 
 **Daily Income:**
 - 10-20 trips
-- **Profit:** $10-30 per day
+- **Profit:** R10-30 per day
 
 **Tips:**
 ✅ Strong rope/cords for securing
@@ -61,7 +61,7 @@
 - **License** - If required
 - **Helmet(s)** - Safety and legal
 - **Insurance** - If required
-- **Money to start:** $500-2000 (or rent $5-10/day)
+- **Money to start:** R500-2000 (or rent R5-10/day)
 
 **How to Start:**
 1. **Get license** - If required in your area
@@ -71,16 +71,16 @@
 5. **Save to buy your own** - Stop paying rent
 
 **Pricing:**
-- **Short trip:** $0.50-1.50
-- **Medium trip:** $2-5
-- **Long trip:** $5-15
-- **Hourly hire:** $5-10
+- **Short trip:** R0.50-1.50
+- **Medium trip:** R2-5
+- **Long trip:** R5-15
+- **Hourly hire:** R5-10
 
 **Daily Income:**
-- Rent: -$7-10
-- Fuel: -$5-8
-- 20-30 trips: $30-60
-- **Profit:** $15-40 per day
+- Rent: -R7-10
+- Fuel: -R5-8
+- 20-30 trips: R30-60
+- **Profit:** R15-40 per day
 
 ---
 
@@ -96,7 +96,7 @@
 **What You Need:**
 - **Special bicycle** - With passenger seat
 - **Cushion** - Passenger comfort
-- **Money to start:** $100-200
+- **Money to start:** R100-200
 
 **How to Start:**
 1. **Get or modify bike** - Passenger seat added
@@ -106,13 +106,13 @@
 5. **Target audience** - Elderly, people with shopping
 
 **Pricing:**
-- **Per trip:** $0.50-2.00
+- **Per trip:** R0.50-2.00
 - **Return trip:** Small discount
-- **Waiting time:** $0.50 per 15 minutes
+- **Waiting time:** R0.50 per 15 minutes
 
 **Daily Income:**
 - 15-25 passengers
-- **Profit:** $12-30 per day
+- **Profit:** R12-30 per day
 
 ---
 
@@ -129,7 +129,7 @@
 - **Vehicle** - Pickup or small truck
 - **License** - Driver's license
 - **Helpers** - 1-2 people for loading
-- **Money to start:** $2000-5000 (or rent per trip)
+- **Money to start:** R2000-5000 (or rent per trip)
 
 **How to Start:**
 1. **Rent vehicle first** - Test market
@@ -139,17 +139,17 @@
 5. **Save for own vehicle** - Stop rental costs
 
 **Pricing:**
-- **Per trip:** $10-50 (distance/size)
-- **Hourly rate:** $10-20
-- **Full day:** $60-100
-- **Helpers extra:** $5-10 each
+- **Per trip:** R10-50 (distance/size)
+- **Hourly rate:** R10-20
+- **Full day:** R60-100
+- **Helpers extra:** R5-10 each
 
 **Daily Income:**
-- Rent: -$15-30
-- Fuel: -$10-20
-- 3-5 trips: $50-150
-- Helper costs: -$10-20
-- **Profit:** $20-80 per day
+- Rent: -R15-30
+- Fuel: -R10-20
+- 3-5 trips: R50-150
+- Helper costs: -R10-20
+- **Profit:** R20-80 per day
 
 ---
 
@@ -165,7 +165,7 @@
 **What You Need:**
 - **Wheelbarrow or cart** - Strong construction
 - **Strong body** - Physical work
-- **Money to start:** $20-50
+- **Money to start:** R20-50
 
 **How to Start:**
 1. **Buy/build cart**
@@ -175,14 +175,14 @@
 5. **Save for upgrade** - Maybe bicycle later
 
 **Pricing:**
-- **Per load:** $1-3
-- **Hourly:** $2-4
-- **Half day:** $8-15
-- **Full day:** $15-25
+- **Per load:** R1-3
+- **Hourly:** R2-4
+- **Half day:** R8-15
+- **Full day:** R15-25
 
 **Daily Income:**
 - 10-20 loads or 6-8 hours
-- **Profit:** $15-30 per day
+- **Profit:** R15-30 per day
 
 ---
 
@@ -248,9 +248,9 @@
 
 ### Saving to Buy:
 **Example (Motorcycle):**
-- Need: $1500
-- Daily profit: $20
-- Save 50%: $10/day
+- Need: R1500
+- Daily profit: R20
+- Save 50%: R10/day
 - Time needed: 150 days (5 months)
 
 **Tips:**
@@ -384,23 +384,23 @@
 ## 🌟 Success Examples
 
 **Example 1: Bicycle Porter**
-- Started at market with own bike ($40)
-- 15 trips/day, $15 profit
-- After 6 months: Bought motorcycle taxi ($600 used)
-- Now: $25-35/day profit
+- Started at market with own bike (R40)
+- 15 trips/day, R15 profit
+- After 6 months: Bought motorcycle taxi (R600 used)
+- Now: R25-35/day profit
 
 **Example 2: Motorcycle Rental**
-- Rented bike for $8/day
-- Made $25-30/day
-- Saved 50% = $8-10/day
-- After 5 months: Bought own bike ($1200 used)
-- Now: $30-45/day profit (no rental cost)
+- Rented bike for R8/day
+- Made R25-30/day
+- Saved 50% = R8-10/day
+- After 5 months: Bought own bike (R1200 used)
+- Now: R30-45/day profit (no rental cost)
 
 **Example 3: Pickup Service**
 - Started renting truck for big jobs
-- Rent: $25, charged $80-100
+- Rent: R25, charged R80-100
 - Saved gradually
-- After 1 year: Bought old pickup ($3500)
+- After 1 year: Bought old pickup (R3500)
 - Now: Steady business, hired driver
 
 ---

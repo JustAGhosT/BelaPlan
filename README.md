@@ -1,71 +1,71 @@
 # BelaPlan 💰
-## How to Make Money in Bela
+## How to Make Money in Bela Bela, Limpopo
 
-**Simple guides for starting your own business with minimal investment.**
+**Simple guides for starting your own business with minimal investment in Bela Bela, South Africa.**
 
 ---
 
 ## 🎯 Choose Your Path to Profit
 
-Pick the business that matches your skills, resources, and interests:
+Pick the business that matches your skills, resources, and interests. All guides are tailored for **Bela Bela, Limpopo, South Africa** with local prices in Rand (R) and consideration for local climate, resources, and market conditions.
 
 ### 🧱 [Brick Making](guides/brick-making/)
 Make money building materials: Adobe, Fired, and Compressed bricks
-- **Start with:** $50-200
+- **Start with:** R50-200
 - **Skills needed:** Basic labor, attention to detail
 - **Time to profit:** 2-4 weeks
 
 ### 🌾 [Farming](guides/farming/)
 Grow food and crops for sale
-- **Start with:** $20-100
+- **Start with:** R20-100
 - **Skills needed:** Basic gardening knowledge
 - **Time to profit:** 1-3 months
 
 ### 🐓 [Animal Raising](guides/animal-raising/)
 Raise chickens, goats, pigs, or rabbits
-- **Start with:** $30-150
+- **Start with:** R30-150
 - **Skills needed:** Animal care basics
 - **Time to profit:** 2-6 months
 
 ### 🍲 [Food Business](guides/food-business/)
 Prepare and sell food from home or market
-- **Start with:** $20-100
+- **Start with:** R20-100
 - **Skills needed:** Cooking ability
 - **Time to profit:** 1-2 weeks
 
 ### 👔 [Tailoring](guides/tailoring/)
 Sew and repair clothes
-- **Start with:** $50-200
+- **Start with:** R50-200
 - **Skills needed:** Basic sewing
 - **Time to profit:** 2-4 weeks
 
 ### 🔨 [Carpentry](guides/carpentry/)
 Build furniture and wooden items
-- **Start with:** $30-150
+- **Start with:** R30-150
 - **Skills needed:** Basic woodworking
 - **Time to profit:** 2-4 weeks
 
 ### 🔧 [Repairs](guides/repairs/)
 Fix bikes, electronics, shoes, and tools
-- **Start with:** $20-100
+- **Start with:** R20-100
 - **Skills needed:** Problem-solving, manual skills
 - **Time to profit:** 1-2 weeks
 
 ### 🏪 [Shop Keeping](guides/shop-keeping/)
 Run a small store from home or kiosk
-- **Start with:** $50-300
+- **Start with:** R50-300
 - **Skills needed:** Basic math, customer service
 - **Time to profit:** Immediate
 
 ### 🚲 [Transport](guides/transport/)
 Move people or goods by bike, motorcycle, or vehicle
-- **Start with:** $100-500 (or rent)
+- **Start with:** R100-500 (or rent)
 - **Skills needed:** Driving/riding ability
 - **Time to profit:** Immediate
 
 ### 🛠️ [Services](guides/services/)
 Offer cleaning, laundry, hair cutting, or other services
-- **Start with:** $10-50
+- **Start with:** R10-50
 - **Skills needed:** Varies by service
 - **Time to profit:** Immediate
 

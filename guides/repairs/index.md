@@ -12,16 +12,16 @@
 **Very popular, low investment**
 
 **Common Repairs:**
-- Flat tire/puncture: $0.50-1.00
-- Brake adjustment: $1.00-2.00
-- Chain repair: $1.00-3.00
-- Gear adjustment: $1.00-2.00
-- Full service: $5.00-10.00
+- Flat tire/puncture: R0.50-1.00
+- Brake adjustment: R1.00-2.00
+- Chain repair: R1.00-3.00
+- Gear adjustment: R1.00-2.00
+- Full service: R5.00-10.00
 
 **What You Need:**
 - **Tools:** Tire levers, patches, glue, pump, wrenches, screwdrivers
 - **Supplies:** Patches, tubes, oil, grease
-- **Money to start:** $30-60
+- **Money to start:** R30-60
 
 **How to Start:**
 1. Learn from bike shop (offer to help free)
@@ -32,7 +32,7 @@
 
 **Daily Income:**
 - 15-30 repairs
-- **Profit:** $15-40 per day
+- **Profit:** R15-40 per day
 
 **Tips:**
 ✅ Fast service = more customers
@@ -46,16 +46,16 @@
 **Always needed, simple to learn**
 
 **Services:**
-- Sole replacement: $2-5
-- Heel repair: $2-4
-- Stitching repair: $1-3
-- Polish service: $0.50-1.00
-- Stretching: $1-2
+- Sole replacement: R2-5
+- Heel repair: R2-4
+- Stitching repair: R1-3
+- Polish service: R0.50-1.00
+- Stretching: R1-2
 
 **What You Need:**
 - **Tools:** Knife, hammer, awl, needle, brush
 - **Supplies:** Glue, thread, soles, heels, polish
-- **Money to start:** $40-80
+- **Money to start:** R40-80
 
 **How to Start:**
 1. Learn from experienced cobbler
@@ -66,7 +66,7 @@
 
 **Daily Income:**
 - 10-20 repairs
-- **Profit:** $15-35 per day
+- **Profit:** R15-35 per day
 
 **Tips:**
 ✅ Keep shoes clean while working
@@ -80,17 +80,17 @@
 **Higher profit, needs training**
 
 **Services:**
-- Screen replacement: $10-30
-- Battery replacement: $5-15
-- Charging port repair: $5-10
-- Software/reset: $2-5
-- Button repair: $3-8
+- Screen replacement: R10-30
+- Battery replacement: R5-15
+- Charging port repair: R5-10
+- Software/reset: R2-5
+- Button repair: R3-8
 
 **What You Need:**
 - **Tools:** Screwdriver set, tweezers, heat gun/hair dryer
 - **Parts:** Common screens, batteries, ports
 - **Knowledge:** Learn from courses or experienced person
-- **Money to start:** $100-200
+- **Money to start:** R100-200
 
 **How to Start:**
 1. **Learn first** - Very important!
@@ -101,7 +101,7 @@
 
 **Daily Income:**
 - 3-8 repairs
-- **Profit:** $20-60 per day
+- **Profit:** R20-60 per day
 
 **Warning:**
 ⚠️ Need real training - can damage expensive phones
@@ -115,17 +115,17 @@
 **Fans, radios, irons, small electrics**
 
 **Common Repairs:**
-- Fans not working: $3-8
-- Iron not heating: $3-6
-- Radio no sound: $3-8
-- Blender broken: $5-10
-- Extension cord repair: $1-3
+- Fans not working: R3-8
+- Iron not heating: R3-6
+- Radio no sound: R3-8
+- Blender broken: R5-10
+- Extension cord repair: R1-3
 
 **What You Need:**
 - **Tools:** Screwdrivers, wire cutters, multimeter, soldering iron
 - **Parts:** Wires, plugs, fuses, switches
 - **Knowledge:** Basic electrical
-- **Money to start:** $50-100
+- **Money to start:** R50-100
 
 **How to Start:**
 1. Learn electrical basics (safety!)
@@ -136,7 +136,7 @@
 
 **Daily Income:**
 - 5-10 repairs
-- **Profit:** $15-40 per day
+- **Profit:** R15-40 per day
 
 **Safety:**
 ⚠️ **UNPLUG** before working
@@ -150,15 +150,15 @@
 **Plumbing, locks, umbrellas, bags, etc.**
 
 **Services:**
-- Leaky taps: $2-5
-- Blocked drains: $5-15
-- Lock repair/replacement: $3-10
-- Umbrella repair: $1-3
-- Bag/zipper repair: $2-5
+- Leaky taps: R2-5
+- Blocked drains: R5-15
+- Lock repair/replacement: R3-10
+- Umbrella repair: R1-3
+- Bag/zipper repair: R2-5
 
 **What You Need:**
 - **Tools:** Variety of tools based on specialty
-- **Money to start:** $40-100
+- **Money to start:** R40-100
 
 **How to Start:**
 1. Pick 1-2 specialties first
@@ -232,11 +232,11 @@
 5. **Build in profit** - At least 50-100%
 
 ### Example (Bicycle Puncture):
-- Patch: $0.10
-- Glue: $0.05
+- Patch: R0.10
+- Glue: R0.05
 - Your time: 10 minutes
-- **Charge:** $0.50-1.00
-- **Profit:** $0.35-0.85
+- **Charge:** R0.50-1.00
+- **Profit:** R0.35-0.85
 
 ### When to Refuse:
 - Too damaged to fix safely
@@ -347,22 +347,22 @@
 ## 🌟 Success Examples
 
 **Example 1: Bicycle Repair**
-- Started with $40 (basic tools)
-- 20 repairs/day x $0.75 profit = $15/day
-- After 3 months: Better location, tools, $25-35/day
-- After 6 months: Helper, expanded services, $40-60/day
+- Started with R40 (basic tools)
+- 20 repairs/day x R0.75 profit = R15/day
+- After 3 months: Better location, tools, R25-35/day
+- After 6 months: Helper, expanded services, R40-60/day
 
 **Example 2: Shoe Repair**
-- Started near market, $50 investment
-- 15 repairs/day x $1.50 profit = $22/day
+- Started near market, R50 investment
+- 15 repairs/day x R1.50 profit = R22/day
 - Built reputation for quality
-- Regular customers, $25-40/day consistently
+- Regular customers, R25-40/day consistently
 
 **Example 3: Phone Repair**
 - Took 2-month training course
 - Started with screen replacements only
-- $150 investment in tools/parts
-- 5 repairs/day x $8 profit = $40/day
+- R150 investment in tools/parts
+- 5 repairs/day x R8 profit = R40/day
 - Expanded to batteries, software, more
 
 ---

@@ -17,7 +17,7 @@
 - **Animals:** 5-10 hens, 1 rooster (optional)
 - **Housing:** Simple coop (2m x 2m for 10 chickens)
 - **Food:** Kitchen scraps + grain
-- **Money to start:** $30-60
+- **Money to start:** R30-60
 
 **Steps to Start:**
 1. **Build/buy coop** - Keep safe from predators, rain
@@ -27,11 +27,11 @@
 5. **Clean coop** - Weekly
 
 **Profit:**
-- **Cost per chicken:** $5-8
-- **Feed:** $2-3 per chicken per month
+- **Cost per chicken:** R5-8
+- **Feed:** R2-3 per chicken per month
 - **Eggs:** 5-6 per week per hen
-- **Sell eggs:** $0.20-0.40 each
-- **Profit:** $20-40 per month (10 hens)
+- **Sell eggs:** R0.20-0.40 each
+- **Profit:** R20-40 per month (10 hens)
 
 ---
 
@@ -42,7 +42,7 @@
 - **Animals:** 20-50 chicks
 - **Housing:** Larger coop with heat (first 3 weeks)
 - **Food:** Special broiler feed
-- **Money to start:** $60-150
+- **Money to start:** R60-150
 
 **Steps:**
 1. **Buy day-old chicks**
@@ -51,11 +51,11 @@
 4. **Sell at 2kg** - Usually 6-8 weeks
 
 **Profit:**
-- **Chick:** $1-2
-- **Feed per bird:** $3-5
-- **Sell at 2kg:** $8-12
-- **Profit:** $3-5 per bird
-- **20 birds:** $60-100 profit per batch
+- **Chick:** R1-2
+- **Feed per bird:** R3-5
+- **Sell at 2kg:** R8-12
+- **Profit:** R3-5 per bird
+- **20 birds:** R60-100 profit per batch
 
 ---
 
@@ -66,7 +66,7 @@
 - **Animals:** 2-4 female goats
 - **Housing:** Simple shelter, fenced area
 - **Food:** Grass, leaves, small amount grain
-- **Money to start:** $80-200
+- **Money to start:** R80-200
 
 **Steps to Start:**
 1. **Buy young females** - 4-6 months old
@@ -76,12 +76,12 @@
 5. **Sell kids** - Every 6-8 months
 
 **Profit:**
-- **Cost per goat:** $40-80
-- **Feed:** Mostly free (grass) + $5/month grain
+- **Cost per goat:** R40-80
+- **Feed:** Mostly free (grass) + R5/month grain
 - **Kids born:** 1-2 every 8 months
-- **Sell kid:** $30-60 each
+- **Sell kid:** R30-60 each
 - **Milk:** Can sell or use for family
-- **Profit:** $60-120 per goat per year
+- **Profit:** R60-120 per goat per year
 
 ---
 
@@ -92,7 +92,7 @@
 - **Animals:** 1 male, 2-3 females
 - **Housing:** Hutches/cages (can build from wire/wood)
 - **Food:** Grass, leaves, vegetable scraps
-- **Money to start:** $40-80
+- **Money to start:** R40-80
 
 **Steps to Start:**
 1. **Build/buy hutches** - Raised off ground
@@ -102,11 +102,11 @@
 5. **Sell young rabbits** - 8-12 weeks old
 
 **Profit:**
-- **Cost per rabbit:** $10-20
+- **Cost per rabbit:** R10-20
 - **Feed:** Mostly free (grass/scraps)
 - **Babies:** 6-8 every 2 months per female
-- **Sell at 2kg:** $10-15
-- **Profit:** $80-120 per month (3 females)
+- **Sell at 2kg:** R10-15
+- **Profit:** R80-120 per month (3 females)
 
 ---
 
@@ -117,7 +117,7 @@
 - **Animals:** 1-2 piglets
 - **Housing:** Strong pen with shelter
 - **Food:** Kitchen waste, grain, water
-- **Money to start:** $100-200
+- **Money to start:** R100-200
 
 **Steps to Start:**
 1. **Build strong pen** - Pigs are strong, need secure fence
@@ -127,11 +127,11 @@
 5. **Sell at 80-100kg** - 5-6 months
 
 **Profit:**
-- **Piglet:** $30-50
-- **Feed:** $60-100 total
-- **Sell at 100kg:** $150-250
-- **Profit:** $60-100 per pig
-- **Two pigs:** $120-200 profit per 6 months
+- **Piglet:** R30-50
+- **Feed:** R60-100 total
+- **Sell at 100kg:** R150-250
+- **Profit:** R60-100 per pig
+- **Two pigs:** R120-200 profit per 6 months
 
 ---
 

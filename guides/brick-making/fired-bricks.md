@@ -16,7 +16,7 @@
 ✅ **Professional reputation** - Recognized quality
 
 ### Challenges:
-⚠️ Higher initial investment ($150-300)
+⚠️ Higher initial investment (R150-300)
 ⚠️ Need more space
 ⚠️ More technical skill required
 ⚠️ Fuel costs
@@ -44,14 +44,14 @@
 
 ### Tools & Equipment:
 
-**Basic Set ($50-80):**
+**Basic Set (R50-80):**
 - Wooden molds (same as adobe)
 - Shovel and hoe
 - Buckets
 - Wheelbarrow (very useful)
 - Rake (for managing fire)
 
-**Kiln Tools ($20-30):**
+**Kiln Tools (R20-30):**
 - Long metal poker (for adjusting fire)
 - Gloves (heat protection)
 - Water bucket (safety)
@@ -378,53 +378,53 @@
 ### Per 500 Brick Batch:
 
 **Materials:**
-- Clay soil: $5-10 (if purchased)
-- Water: $2-3
-- Kiln mud/sealing: $3-5
-- **Subtotal: $10-18**
+- Clay soil: R5-10 (if purchased)
+- Water: R2-3
+- Kiln mud/sealing: R3-5
+- **Subtotal: R10-18**
 
 **Fuel Costs:**
-- Wood (1.5 cubic meters): $40-60
-- Or charcoal: $50-70
-- Or coal: $35-50
-- Or agricultural waste: $10-20 (cheapest!)
-- **Subtotal: $35-70**
+- Wood (1.5 cubic meters): R40-60
+- Or charcoal: R50-70
+- Or coal: R35-50
+- Or agricultural waste: R10-20 (cheapest!)
+- **Subtotal: R35-70**
 
 **Labor (if hiring):**
-- Brick making (3 days): $45-60
-- Kiln building (1 day): $15-20
-- Firing attendance (2 days): $30-40
-- Unloading (1 day): $15-20
-- **Subtotal: $105-140** (or your time if doing yourself)
+- Brick making (3 days): R45-60
+- Kiln building (1 day): R15-20
+- Firing attendance (2 days): R30-40
+- Unloading (1 day): R15-20
+- **Subtotal: R105-140** (or your time if doing yourself)
 
 **Total Costs per 500 bricks:**
-- With hired labor: $150-228
-- DIY labor: $45-88
+- With hired labor: R150-228
+- DIY labor: R45-88
 
 ### Revenue:
 
 **Selling Prices (vary by location):**
-- Top quality: $0.60-0.80 per brick
-- Good quality: $0.50-0.60 per brick
-- Lower quality: $0.30-0.40 per brick
+- Top quality: R0.60-0.80 per brick
+- Good quality: R0.50-0.60 per brick
+- Lower quality: R0.30-0.40 per brick
 
 **Income Calculation (500 bricks):**
-- 400 top quality @ $0.70 = $280
-- 50 good quality @ $0.55 = $27.50
-- 30 lower quality @ $0.35 = $10.50
-- 20 failed (use for kiln) = $0
-- **Total revenue: $318**
+- 400 top quality @ R0.70 = R280
+- 50 good quality @ R0.55 = R27.50
+- 30 lower quality @ R0.35 = R10.50
+- 20 failed (use for kiln) = R0
+- **Total revenue: R318**
 
 **Profit per Batch:**
-- DIY: $318 - $88 = **$230 profit**
-- With labor: $318 - $228 = **$90 profit**
+- DIY: R318 - R88 = **R230 profit**
+- With labor: R318 - R228 = **R90 profit**
 
 **Profit per brick (DIY):**
-- About $0.46 per brick
+- About R0.46 per brick
 
 **Monthly Income (2 firings):**
-- DIY: $460 per month
-- With hired help: $180 per month
+- DIY: R460 per month
+- With hired help: R180 per month
 
 ---
 
@@ -544,7 +544,7 @@
    - More efficient
    - Better temperature control
    - Higher capacity
-   - Investment: $500-1000
+   - Investment: R500-1000
 
 2. **Helper/partner**
    - Share work and costs
@@ -571,22 +571,22 @@
 ### Cost Comparison per 500-Brick Firing:
 
 **Wood (traditional):**
-- Cost: $40-60
+- Cost: R40-60
 - Pros: Easy to control, good heat
 - Cons: Can be expensive, deforestation concern
 
 **Charcoal:**
-- Cost: $50-70
+- Cost: R50-70
 - Pros: Very hot, clean burning
 - Cons: Most expensive option
 
 **Coal:**
-- Cost: $35-50
+- Cost: R35-50
 - Pros: Hot, long burning
 - Cons: May not be available everywhere
 
 **Agricultural Waste:**
-- Cost: $10-20 (or free!)
+- Cost: R10-20 (or free!)
 - Types: Rice husks, corn cobs, sawdust, sugarcane bagasse
 - Pros: Very cheap, sustainable
 - Cons: Need more volume, storage space
@@ -595,7 +595,7 @@
 - Phase 1 (Preheating): Agricultural waste
 - Phase 2 (Peak heat): Wood or coal
 - Phase 3 (Maintaining): Agricultural waste
-- **Total cost: $25-35** (savings of 30-50%!)
+- **Total cost: R25-35** (savings of 30-50%!)
 
 ---
 

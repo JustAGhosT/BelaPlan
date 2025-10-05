@@ -20,7 +20,7 @@
 
 ### Challenges:
 
-⚠️ Higher initial investment ($200-400 for machine)
+⚠️ Higher initial investment (R200-400 for machine)
 ⚠️ Need electricity or manual power
 ⚠️ Cement cost (ongoing)
 ⚠️ Must follow precise ratios
@@ -35,21 +35,21 @@
 ### Types of Machines:
 
 **1. Manual Press (Hand-operated)**
-- **Cost:** $200-350
+- **Cost:** R200-350
 - **Power:** Human operated (lever system)
 - **Speed:** 200-300 bricks per day (one person)
 - **Maintenance:** Minimal
 - **Best for:** Starting out, small scale
 
 **2. Hydraulic Manual Press**
-- **Cost:** $350-500
+- **Cost:** R350-500
 - **Power:** Hydraulic assist, hand pumped
 - **Speed:** 400-500 bricks per day
 - **Maintenance:** Low
 - **Best for:** Medium scale production
 
 **3. Diesel/Electric Press**
-- **Cost:** $800-2000
+- **Cost:** R800-2000
 - **Power:** Engine or electric motor
 - **Speed:** 1000-2000 bricks per day
 - **Maintenance:** Regular servicing needed
@@ -325,56 +325,56 @@ Compressed bricks need proper curing to develop full strength:
 ### Initial Investment:
 
 **Equipment:**
-- Manual press machine: $200-350
-- Mixing tools (hoe, shovel): $15-25
-- Buckets/containers: $10-15
-- Wheelbarrow: $30-50
-- Spray bottle/hose: $5-10
-- Boards/palettes: $20-30
-- **Total: $280-480**
+- Manual press machine: R200-350
+- Mixing tools (hoe, shovel): R15-25
+- Buckets/containers: R10-15
+- Wheelbarrow: R30-50
+- Spray bottle/hose: R5-10
+- Boards/palettes: R20-30
+- **Total: R280-480**
 
 ### Operating Costs per 100 Bricks:
 
 **Materials:**
-- Soil (150 kg): $3-5 (or free if you dig)
-- Cement (15 kg): $8-12
-- Water: $1-2
-- **Total materials: $12-19**
+- Soil (150 kg): R3-5 (or free if you dig)
+- Cement (15 kg): R8-12
+- Water: R1-2
+- **Total materials: R12-19**
 
 **Other Costs:**
-- Machine wear: $2-3 (depreciation)
-- **Total per 100 bricks: $14-22**
+- Machine wear: R2-3 (depreciation)
+- **Total per 100 bricks: R14-22**
 
-**Cost per brick:** $0.14-0.22
+**Cost per brick:** R0.14-0.22
 
 ### Revenue:
 
 **Selling Prices:**
-- Standard compressed: $0.40-0.60
-- Premium quality: $0.60-0.80
-- Colored/special: $0.70-1.00
+- Standard compressed: R0.40-0.60
+- Premium quality: R0.60-0.80
+- Colored/special: R0.70-1.00
 
 **Profit Calculation (100 bricks standard):**
-- Cost: $18 (average)
-- Sell @ $0.50 each: $50
-- **Profit: $32**
+- Cost: R18 (average)
+- Sell @ R0.50 each: R50
+- **Profit: R32**
 - **Profit margin: 64%**
 
 **Daily Income (200 bricks):**
-- Cost: $36
-- Revenue: $100
-- **Profit: $64 per day**
+- Cost: R36
+- Revenue: R100
+- **Profit: R64 per day**
 
 **Monthly Income (25 working days):**
 - Production: 5,000 bricks
-- Revenue: $2,500
-- Costs: $900
-- **Profit: $1,600 per month**
+- Revenue: R2,500
+- Costs: R900
+- **Profit: R1,600 per month**
 
 ### Break-Even Analysis:
 
-**Investment: $400 (machine + tools)**
-**Daily profit: $64**
+**Investment: R400 (machine + tools)**
+**Daily profit: R64**
 **Break-even: 7 working days**
 
 After just one week, you've recovered your investment!
@@ -510,25 +510,25 @@ After just one week, you've recovered your investment!
 - **Production:** 150-200 bricks/day
 - **Focus:** Learn machine, perfect technique
 - **Investment:** Initial machine only
-- **Income:** $1,200-1,600/month
+- **Income:** R1,200-1,600/month
 
 ### Phase 2: Efficient Production (Months 4-6)
 - **Production:** 250-300 bricks/day
 - **Improvements:** Better organization, rhythm
 - **Added:** Shade structure, better storage
-- **Income:** $1,800-2,400/month
+- **Income:** R1,800-2,400/month
 
 ### Phase 3: Hire Helper (Months 7-12)
 - **Production:** 400-500 bricks/day
 - **Setup:** One mixes, one operates
-- **Cost:** Helper wage $10-15/day
-- **Income:** $2,800-3,600/month (after wages)
+- **Cost:** Helper wage R10-15/day
+- **Income:** R2,800-3,600/month (after wages)
 
 ### Phase 4: Upgrade Machine (Year 2)
 - **Consider:** Hydraulic or powered press
 - **Production:** 800-1500 bricks/day
-- **Investment:** $500-2000
-- **Income:** $5,000-8,000/month
+- **Investment:** R500-2000
+- **Income:** R5,000-8,000/month
 
 ---
 
@@ -539,9 +539,9 @@ After just one week, you've recovered your investment!
 **Process:**
 - Add cement color pigment to mix
 - Popular colors: Red, brown, yellow, black
-- Cost: Extra $0.05-0.10 per brick
-- Sell for: Extra $0.15-0.25 per brick
-- **Additional profit: $0.10-0.15 per brick**
+- Cost: Extra R0.05-0.10 per brick
+- Sell for: Extra R0.15-0.25 per brick
+- **Additional profit: R0.10-0.15 per brick**
 
 **Market:**
 - Decorative walls
@@ -559,7 +559,7 @@ After just one week, you've recovered your investment!
 
 **Requirements:**
 - Special mold for machine
-- Cost: $100-200
+- Cost: R100-200
 - Sell for: 50-100% premium
 - Growing market demand
 
@@ -605,40 +605,40 @@ After just one week, you've recovered your investment!
 ### Peter's Journey with Compressed Bricks:
 
 **Month 1:**
-- Bought used manual press: $250
+- Bought used manual press: R250
 - Made 150 bricks/day
 - Learning phase
-- Income: $1,000
+- Income: R1,000
 
 **Month 3:**
 - Perfected technique
 - 200 bricks/day consistently
 - Regular customers
-- Income: $1,600
+- Income: R1,600
 
 **Month 6:**
-- Added shade structure: $80
+- Added shade structure: R80
 - Improved efficiency: 250 bricks/day
 - Word spreading about quality
-- Income: $2,200
+- Income: R2,200
 
 **Month 9:**
 - Hired part-time helper
 - 400 bricks/day
 - Supplying two hardware stores
-- Income: $3,000 (after wages)
+- Income: R3,000 (after wages)
 
 **Month 12:**
-- Saved $2,500
+- Saved R2,500
 - Bought hydraulic press
 - 600 bricks/day
-- Income: $4,500
+- Income: R4,500
 
 **Year 2:**
 - Added colored bricks
 - Hired full-time worker
 - 1,000 bricks/day
-- Income: $7,000/month
+- Income: R7,000/month
 
 **Keys to Success:**
 - Started small, learned thoroughly

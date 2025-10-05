@@ -27,14 +27,14 @@
 
 **What You Need:**
 - **Supplies:** Brooms, mops, buckets, cloths, soap
-- **Money to start:** $20-40
+- **Money to start:** R20-40
 
 **Pricing:**
-- **Small house:** $5-10 per clean
-- **Large house:** $10-20 per clean
-- **Office:** $15-30 per month
-- **Deep clean:** $20-40
-- **Hourly rate:** $2-4
+- **Small house:** R5-10 per clean
+- **Large house:** R10-20 per clean
+- **Office:** R15-30 per month
+- **Deep clean:** R20-40
+- **Hourly rate:** R2-4
 
 **How to Start:**
 1. Start with family/friends
@@ -45,7 +45,7 @@
 
 **Daily Income:**
 - 2-3 houses per day
-- **Profit:** $10-30 per day
+- **Profit:** R10-30 per day
 
 ---
 
@@ -61,13 +61,13 @@
 **What You Need:**
 - **Basic:** Basins, soap, clothes line, iron
 - **Better:** Washing machine (if electricity available)
-- **Money to start:** $30-80
+- **Money to start:** R30-80
 
 **Pricing:**
-- **Per item:** $0.20-0.50 (washing)
-- **Ironing:** $0.20-0.50 per item
-- **Full service:** $5-10 per household per week
-- **Blankets/large:** $2-5
+- **Per item:** R0.20-0.50 (washing)
+- **Ironing:** R0.20-0.50 per item
+- **Full service:** R5-10 per household per week
+- **Blankets/large:** R2-5
 
 **How to Start:**
 1. Start with neighbors
@@ -78,7 +78,7 @@
 
 **Daily Income:**
 - 3-5 households
-- **Profit:** $15-30 per day
+- **Profit:** R15-30 per day
 
 ---
 
@@ -91,18 +91,18 @@
 - Basic cuts
 - Shaving
 - Beard trimming
-- **Price:** $1-3 per cut
+- **Price:** R1-3 per cut
 
 **Women's Services:**
 - Hair braiding
 - Simple styles
 - Hair treatment
-- **Price:** $5-20 (depending on style)
+- **Price:** R5-20 (depending on style)
 
 **What You Need:**
 - **Tools:** Scissors, clippers, combs, mirror
 - **Space:** Can work under tree or in home
-- **Money to start:** $40-100
+- **Money to start:** R40-100
 
 **How to Start:**
 1. Learn from experienced person
@@ -113,11 +113,11 @@
 
 **Daily Income (Haircuts):**
 - 10-20 cuts per day
-- **Profit:** $10-40 per day
+- **Profit:** R10-40 per day
 
 **Weekly Income (Braiding):**
 - 3-5 customers per week
-- **Profit:** $15-80 per week
+- **Profit:** R15-80 per week
 
 ---
 
@@ -134,12 +134,12 @@
 - **Space:** Safe, clean area
 - **Patience:** Love for children
 - **Responsibility:** Trustworthy
-- **Money to start:** $10-30 (toys, mats)
+- **Money to start:** R10-30 (toys, mats)
 
 **Pricing:**
-- **Per child per day:** $2-5
-- **Per child per week:** $10-20
-- **Hourly:** $1-2
+- **Per child per day:** R2-5
+- **Per child per week:** R10-20
+- **Hourly:** R1-2
 - **Multiple children:** Discount
 
 **How to Start:**
@@ -151,7 +151,7 @@
 
 **Daily Income:**
 - 3-5 children
-- **Profit:** $10-25 per day
+- **Profit:** R10-25 per day
 
 ---
 
@@ -168,13 +168,13 @@
 **What You Need:**
 - **Tools:** Basic garden tools
 - **Willingness:** To do various tasks
-- **Money to start:** $20-40
+- **Money to start:** R20-40
 
 **Pricing:**
-- **Hourly rate:** $2-4
-- **Half day:** $8-15
-- **Full day:** $15-25
-- **Regular weekly:** $40-80 per month
+- **Hourly rate:** R2-4
+- **Half day:** R8-15
+- **Full day:** R15-25
+- **Regular weekly:** R40-80 per month
 
 **How to Start:**
 1. Offer to help neighbors
@@ -185,7 +185,7 @@
 
 **Daily Income:**
 - 4-8 hours work
-- **Profit:** $8-30 per day
+- **Profit:** R8-30 per day
 
 ---
 
@@ -203,13 +203,13 @@
 - **Transport:** Bicycle or walk
 - **Phone:** For coordination (if possible)
 - **Trustworthy:** Handle money/items
-- **Money to start:** $10-20
+- **Money to start:** R10-20
 
 **Pricing:**
-- **Per errand:** $1-3
-- **Shopping service:** $2-5 + item cost
-- **Bill payment:** $1-2 per bill
-- **Hourly rate:** $2-4
+- **Per errand:** R1-3
+- **Shopping service:** R2-5 + item cost
+- **Bill payment:** R1-2 per bill
+- **Hourly rate:** R2-4
 
 **How to Start:**
 1. Start with elderly/busy neighbors
@@ -220,7 +220,7 @@
 
 **Daily Income:**
 - 8-15 errands
-- **Profit:** $10-30 per day
+- **Profit:** R10-30 per day
 
 ---
 
@@ -238,11 +238,11 @@
 - **Education:** Good knowledge of subjects
 - **Patience:** Work with children
 - **Space:** Quiet place to study
-- **Money to start:** $10-20 (books, paper)
+- **Money to start:** R10-20 (books, paper)
 
 **Pricing:**
-- **Per child per hour:** $1-3
-- **Per child per week:** $5-15
+- **Per child per hour:** R1-3
+- **Per child per week:** R5-15
 - **Group rate:** Lower per child
 - **Exam prep:** Higher rate
 
@@ -255,7 +255,7 @@
 
 **Income:**
 - 5-10 children, 1-2 hours each per week
-- **Profit:** $25-60 per week
+- **Profit:** R25-60 per week
 
 ---
 
@@ -273,12 +273,12 @@
 - **Neat appearance**
 - **Hard working**
 - **Flexible hours**
-- **Money to start:** $5-10 (uniform/shoes)
+- **Money to start:** R5-10 (uniform/shoes)
 
 **Pricing:**
-- **Per event:** $10-25
-- **Per day:** $15-30
-- **Half day:** $8-15
+- **Per event:** R10-25
+- **Per day:** R15-30
+- **Half day:** R8-15
 
 **How to Start:**
 1. Let event organizers know
@@ -289,7 +289,7 @@
 
 **Income:**
 - 2-4 events per month
-- **Profit:** $20-100 per month (extra income)
+- **Profit:** R20-100 per month (extra income)
 
 ---
 
@@ -439,22 +439,22 @@
 ## 🌟 Success Examples
 
 **Example 1: Cleaning Service**
-- Started with 2 houses per week ($20/week)
-- Month 3: 8 houses regularly ($80/week)
-- Month 6: 12 houses + office ($150/week)
+- Started with 2 houses per week (R20/week)
+- Month 3: 8 houses regularly (R80/week)
+- Month 6: 12 houses + office (R150/week)
 - Hired helper, expanded further
 
 **Example 2: Laundry Service**
-- Started with 3 households ($15/week)
+- Started with 3 households (R15/week)
 - Built reputation for quality
-- Month 4: 10 households ($50/week)
-- Month 8: Got washing machine, 20 households ($120/week)
+- Month 4: 10 households (R50/week)
+- Month 8: Got washing machine, 20 households (R120/week)
 
 **Example 3: Tutoring**
-- Started with 2 children ($10/week)
+- Started with 2 children (R10/week)
 - Students' grades improved
 - Parents referred others
-- Month 5: 12 children ($60/week)
+- Month 5: 12 children (R60/week)
 - Expanded to weekend group classes
 
 ---

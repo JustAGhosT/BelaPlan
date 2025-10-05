@@ -15,19 +15,19 @@
 
 **Fried Items:**
 - Samosas, mandazi, chapati, fritters
-- **Start cost:** $20-40
+- **Start cost:** R20-40
 - **Equipment:** Pan/pot, stove/charcoal, oil
 - **Profit margin:** 100-200%
 
 **Cooked Meals:**
 - Rice and beans, ugali, stew
-- **Start cost:** $30-60
+- **Start cost:** R30-60
 - **Equipment:** Pots, stove, serving containers
 - **Profit margin:** 50-100%
 
 **Snacks:**
 - Roasted peanuts, corn, cassava
-- **Start cost:** $15-30
+- **Start cost:** R15-30
 - **Equipment:** Roasting pan, fire/stove
 - **Profit margin:** 100-150%
 
@@ -40,11 +40,11 @@
 6. **Start selling** - Early morning or lunch time
 
 **Example (Samosas):**
-- **Cost to make 50:** $10 (flour, oil, filling)
-- **Sell each:** $0.30-0.50
-- **Income:** $15-25
-- **Profit:** $5-15 per batch
-- **Make 2-3 batches daily:** $10-45 profit
+- **Cost to make 50:** R10 (flour, oil, filling)
+- **Sell each:** R0.30-0.50
+- **Income:** R15-25
+- **Profit:** R5-15 per batch
+- **Make 2-3 batches daily:** R10-45 profit
 
 ---
 
@@ -54,7 +54,7 @@
 **What You Need:**
 - **Skills:** Good cooking ability
 - **Equipment:** Basic cooking pots, containers
-- **Money to start:** $30-50
+- **Money to start:** R30-50
 
 **How It Works:**
 1. **Find customers** - Working families, single people
@@ -64,9 +64,9 @@
 5. **Charge service fee** - For your time and skill
 
 **Pricing:**
-- **Charge:** $5-15 per family per week
+- **Charge:** R5-15 per family per week
 - **Cook for:** 3-5 families
-- **Profit:** $15-75 per week
+- **Profit:** R15-75 per week
 - **Time:** 2-3 hours per family
 
 ---
@@ -77,26 +77,26 @@
 **What You Need:**
 - **Equipment:** Oven (can use charcoal/gas), mixing bowls
 - **Ingredients:** Flour, sugar, yeast, oil
-- **Money to start:** $40-80
+- **Money to start:** R40-80
 
 **Popular Items:**
 
 **Bread:**
-- **Cost per loaf:** $0.30-0.50
-- **Sell for:** $0.70-1.00
-- **Profit:** $0.40-0.50 per loaf
-- **Make 20 loaves:** $8-10 profit
+- **Cost per loaf:** R0.30-0.50
+- **Sell for:** R0.70-1.00
+- **Profit:** R0.40-0.50 per loaf
+- **Make 20 loaves:** R8-10 profit
 
 **Cakes (celebrations):**
-- **Cost:** $5-10
-- **Sell for:** $15-30
-- **Profit:** $10-20 per cake
+- **Cost:** R5-10
+- **Sell for:** R15-30
+- **Profit:** R10-20 per cake
 - **Orders:** Birthdays, weddings
 
 **Cookies/Biscuits:**
-- **Cost per batch (50):** $3-5
-- **Sell:** $0.15-0.25 each
-- **Profit:** $4-8 per batch
+- **Cost per batch (50):** R3-5
+- **Sell:** R0.15-0.25 each
+- **Profit:** R4-8 per batch
 
 ---
 
@@ -106,21 +106,21 @@
 **What You Need:**
 - **Equipment:** Blender (manual or electric), containers, ice
 - **Ingredients:** Fruits, tea, coffee, sugar
-- **Money to start:** $25-50
+- **Money to start:** R25-50
 
 **Options:**
 
 **Fresh Juice:**
-- **Cost per glass:** $0.20-0.40
-- **Sell for:** $0.50-1.00
-- **Profit:** $0.30-0.60 per glass
-- **Sell 30 glasses:** $9-18 profit
+- **Cost per glass:** R0.20-0.40
+- **Sell for:** R0.50-1.00
+- **Profit:** R0.30-0.60 per glass
+- **Sell 30 glasses:** R9-18 profit
 
 **Tea/Coffee Stand:**
-- **Cost per cup:** $0.10-0.20
-- **Sell for:** $0.30-0.50
-- **Profit:** $0.20-0.30 per cup
-- **Morning rush:** 40-60 cups = $8-18 profit
+- **Cost per cup:** R0.10-0.20
+- **Sell for:** R0.30-0.50
+- **Profit:** R0.20-0.30 per cup
+- **Morning rush:** 40-60 cups = R8-18 profit
 
 ---
 
@@ -130,7 +130,7 @@
 **What You Need:**
 - **Equipment:** Large pots, serving dishes, transport
 - **Experience:** Cooking for groups
-- **Money to start:** $60-120
+- **Money to start:** R60-120
 
 **How It Works:**
 1. **Get orders** - Weddings, parties, meetings, funerals
@@ -140,11 +140,11 @@
 5. **Deliver/serve** - On time!
 
 **Pricing:**
-- **Charge:** $2-5 per person
+- **Charge:** R2-5 per person
 - **Event:** 50-100 people
-- **Income:** $100-500
-- **Cost:** $50-250 (50% food cost)
-- **Profit:** $50-250 per event
+- **Income:** R100-500
+- **Cost:** R50-250 (50% food cost)
+- **Profit:** R50-250 per event
 
 ---
 
@@ -218,12 +218,12 @@
 5. **Add profit** - At least 50-100%
 
 ### Example Calculation (Chapati):
-- Flour: $0.10
-- Oil: $0.05
-- Fuel: $0.03
-- **Total cost:** $0.18
-- **Sell for:** $0.40-0.50
-- **Profit:** $0.22-0.32 per chapati
+- Flour: R0.10
+- Oil: R0.05
+- Fuel: R0.03
+- **Total cost:** R0.18
+- **Sell for:** R0.40-0.50
+- **Profit:** R0.22-0.32 per chapati
 
 ---
 
@@ -304,21 +304,21 @@
 ## 🌟 Success Stories Examples
 
 **Example 1: Samosa Seller**
-- Started with $20
+- Started with R20
 - Makes 100 samosas daily
-- Profit: $15-20 per day
+- Profit: R15-20 per day
 - After 3 months: Hired helper, bought cart
 
 **Example 2: Home Baker**
 - Started with family oven
 - Makes bread and cakes
-- Profit: $50-100 per week
+- Profit: R50-100 per week
 - After 6 months: Bought own oven, supplies 3 shops
 
 **Example 3: Tea Stand**
 - Started at bus stop
 - Serves 60 cups in morning
-- Profit: $12-15 per day
+- Profit: R12-15 per day
 - After 4 months: Built permanent stall
 
 ---

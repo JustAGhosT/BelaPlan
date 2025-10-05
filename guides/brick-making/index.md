@@ -8,7 +8,15 @@
 
 ## 📚 Complete Guide Contents
 
-This comprehensive guide covers all aspects of brick making for profit. Choose your path based on your budget and experience:
+This comprehensive guide covers all aspects of brick making for profit in **Bela Bela, Limpopo, South Africa**. Choose your path based on your budget and experience:
+
+### [📖 Clay Selection Guide →](clay-selection.md)
+**Essential foundation** - Find and test the best clay in Bela Bela
+- Geology of Bela Bela area
+- Where to find clay legally
+- Complete testing procedures
+- Clay types and uses
+- Cost considerations and sustainability
 
 ### [📖 Adobe Bricks (Sun-Dried) - Complete Guide →](adobe-bricks.md)
 **Best for beginners** - Detailed guide on making sun-dried bricks
@@ -27,6 +35,15 @@ This comprehensive guide covers all aspects of brick making for profit. Choose y
 - Fuel cost optimization
 - Quality grading system
 - Production records templates
+
+### [📖 Firing Guide - Complete Techniques →](firing-guide.md)
+**Master firing** - Everything about firing bricks in Bela Bela
+- Types of kilns for the region
+- Phase-by-phase firing process
+- Temperature management without equipment
+- Local fuel sources and costs
+- Seasonal considerations for Bela Bela climate
+- Common problems and solutions
 
 ### [📖 Compressed Bricks (Machine) - Complete Guide →](compressed-bricks.md)
 **Modern method** - Fast, eco-friendly brick making
@@ -49,7 +66,7 @@ This comprehensive guide covers all aspects of brick making for profit. Choose y
 - **Materials:** Clay soil, water, straw or grass
 - **Tools:** Wooden mold (can make yourself), shovel, bucket
 - **Space:** Open area to dry bricks (10m x 10m minimum)
-- **Money to start:** $50-100
+- **Money to start:** R50-100
 
 #### Step by Step:
 1. **Find clay soil** - Dig where soil is sticky when wet
@@ -65,10 +82,10 @@ This comprehensive guide covers all aspects of brick making for profit. Choose y
 7. **Test brick** - Should be hard, not break easily
 
 #### Selling Price:
-- **Cost per brick:** $0.10-0.20
-- **Sell for:** $0.30-0.50
-- **Profit:** $0.20-0.30 per brick
-- **Make 50 bricks per day:** $10-15 profit
+- **Cost per brick:** R0.10-0.20
+- **Sell for:** R0.30-0.50
+- **Profit:** R0.20-0.30 per brick
+- **Make 50 bricks per day:** R10-15 profit
 
 ---
 
@@ -80,7 +97,7 @@ This comprehensive guide covers all aspects of brick making for profit. Choose y
 - **Materials:** Clay soil, water, fuel (wood, coal, or waste)
 - **Tools:** Molds, kiln (can build yourself), wheelbarrow
 - **Space:** Large area for kiln and storage
-- **Money to start:** $150-300
+- **Money to start:** R150-300
 
 #### Step by Step:
 1. **Make bricks** - Same as adobe (without straw)
@@ -96,10 +113,10 @@ This comprehensive guide covers all aspects of brick making for profit. Choose y
 5. **Remove bricks** - Should ring like bell when tapped
 
 #### Selling Price:
-- **Cost per brick:** $0.20-0.30
-- **Sell for:** $0.50-0.80
-- **Profit:** $0.30-0.50 per brick
-- **Fire 500 bricks per batch:** $150-250 profit
+- **Cost per brick:** R0.20-0.30
+- **Sell for:** R0.50-0.80
+- **Profit:** R0.30-0.50 per brick
+- **Fire 500 bricks per batch:** R150-250 profit
 
 ---
 
@@ -111,7 +128,7 @@ This comprehensive guide covers all aspects of brick making for profit. Choose y
 - **Materials:** Clay soil, cement (small amount), water
 - **Tools:** Manual brick press machine
 - **Space:** Work area and drying space
-- **Money to start:** $200-400 (includes machine)
+- **Money to start:** R200-400 (includes machine)
 
 #### Step by Step:
 1. **Prepare mixture:**
@@ -124,10 +141,10 @@ This comprehensive guide covers all aspects of brick making for profit. Choose y
 5. **Stack carefully** - Don't move for first 3 days
 
 #### Selling Price:
-- **Cost per brick:** $0.15-0.25
-- **Sell for:** $0.40-0.70
-- **Profit:** $0.25-0.45 per brick
-- **Make 200 bricks per day:** $50-90 profit
+- **Cost per brick:** R0.15-0.25
+- **Sell for:** R0.40-0.70
+- **Profit:** R0.25-0.45 per brick
+- **Make 200 bricks per day:** R50-90 profit
 
 ---
 

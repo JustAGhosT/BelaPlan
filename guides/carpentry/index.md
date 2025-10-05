@@ -20,17 +20,17 @@
 
 **What You Need:**
 - **Basic tools:** Hammer, saw, screwdriver, nails, screws
-- **Money to start:** $30-60
+- **Money to start:** R30-60
 
 **Pricing:**
-- **Chair repair:** $2-5
-- **Door repair:** $5-10
-- **Shelf replacement:** $5-15
-- **Table repair:** $5-15
+- **Chair repair:** R2-5
+- **Door repair:** R5-10
+- **Shelf replacement:** R5-15
+- **Table repair:** R5-15
 
 **Daily Income:**
 - 3-5 repairs
-- **Profit:** $10-30 per day
+- **Profit:** R10-30 per day
 
 ---
 
@@ -40,28 +40,28 @@
 **Popular Items:**
 
 **Furniture:**
-- Benches: $15-30
-- Simple tables: $25-50
-- Chairs: $10-25
-- Stools: $5-12
+- Benches: R15-30
+- Simple tables: R25-50
+- Chairs: R10-25
+- Stools: R5-12
 
 **Home Items:**
-- Shelving units: $20-40
-- Kitchen cabinets: $30-60
-- Shoe racks: $10-20
-- Cloth drying racks: $8-15
+- Shelving units: R20-40
+- Kitchen cabinets: R30-60
+- Shoe racks: R10-20
+- Cloth drying racks: R8-15
 
 **What You Need:**
 - **Tools:** Hand saw, plane, drill (manual or electric), measuring tape
 - **Materials:** Wood, nails, screws, glue, sandpaper
-- **Money to start:** $80-150
+- **Money to start:** R80-150
 
 **Profit Example (Simple Table):**
-- **Wood:** $15-20
-- **Hardware:** $3-5
-- **Your labor:** $15-25
-- **Sell for:** $40-60
-- **Profit:** $12-20
+- **Wood:** R15-20
+- **Hardware:** R3-5
+- **Your labor:** R15-25
+- **Sell for:** R40-60
+- **Profit:** R12-20
 
 ---
 
@@ -78,13 +78,13 @@
 **What You Need:**
 - **Better tools:** Power saw, electric drill, clamps, levels
 - **Skills:** Measuring, cutting, joining, finishing
-- **Money to start:** $200-400
+- **Money to start:** R200-400
 
 **Pricing Example (Wardrobe):**
-- **Materials:** $80-120
-- **Labor:** $50-100
-- **Charge:** $150-250
-- **Profit:** $30-80 per piece
+- **Materials:** R80-120
+- **Labor:** R50-100
+- **Charge:** R150-250
+- **Profit:** R30-80 per piece
 
 ---
 
@@ -100,19 +100,19 @@
 **What You Need:**
 - **Tools:** Saw, plane, chisel set, drill
 - **Skills:** Precise measurement, square joints
-- **Money to start:** $100-200
+- **Money to start:** R100-200
 
 **Pricing:**
-- **Simple door:** $40-80
-- **Window frame:** $25-50
-- **Installation:** $10-20 extra
-- **Repairs:** $5-15
+- **Simple door:** R40-80
+- **Window frame:** R25-50
+- **Installation:** R10-20 extra
+- **Repairs:** R5-15
 
 ---
 
 ## 🛠️ Essential Tools
 
-### Starter Kit ($30-60):
+### Starter Kit (R30-60):
 - Handsaw
 - Hammer
 - Screwdrivers (flat and Phillips)
@@ -122,7 +122,7 @@
 - Sandpaper
 - Nails and screws
 
-### Intermediate ($80-150):
+### Intermediate (R80-150):
 - Hand plane
 - Wood chisels (set)
 - Hand drill or brace
@@ -131,7 +131,7 @@
 - Better saw
 - Wood glue
 
-### Professional ($200-400):
+### Professional (R200-400):
 - Electric drill
 - Power saw (circular or jigsaw)
 - Sander
@@ -254,13 +254,13 @@
 - Good for repairs/renovations
 
 **Example (Simple Bench):**
-- Wood: $12
-- Screws/nails: $2
-- Sandpaper: $1
-- Your time: 4 hours x $3 = $12
-- **Cost:** $27
-- **Sell for:** $35-40
-- **Profit:** $8-13
+- Wood: R12
+- Screws/nails: R2
+- Sandpaper: R1
+- Your time: 4 hours x R3 = R12
+- **Cost:** R27
+- **Sell for:** R35-40
+- **Profit:** R8-13
 
 ---
 
@@ -361,10 +361,10 @@
 ## 🌟 Success Example
 
 **James's Journey:**
-- **Month 1:** Repairs only, basic tools, $10-15/day
-- **Month 3:** Bought better saw, making stools, $20-30/day
-- **Month 6:** Electric drill, building tables/chairs, $30-50/day
-- **Month 12:** Small workshop, 1 helper, furniture business, $60-100/day
+- **Month 1:** Repairs only, basic tools, R10-15/day
+- **Month 3:** Bought better saw, making stools, R20-30/day
+- **Month 6:** Electric drill, building tables/chairs, R30-50/day
+- **Month 12:** Small workshop, 1 helper, furniture business, R60-100/day
 
 ---
 

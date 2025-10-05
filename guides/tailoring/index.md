@@ -21,18 +21,18 @@
 **What You Need:**
 - **Machine:** Hand sewing OK to start, machine better
 - **Supplies:** Thread, needles, buttons, zippers
-- **Money to start:** $20-40 (without machine)
+- **Money to start:** R20-40 (without machine)
 
 **Pricing:**
-- **Torn seam:** $0.50-1.00
-- **Zipper replacement:** $1.00-2.00
-- **Hemming:** $1.00-2.00
-- **Buttons:** $0.25-0.50 each
-- **Patches:** $0.50-1.50
+- **Torn seam:** R0.50-1.00
+- **Zipper replacement:** R1.00-2.00
+- **Hemming:** R1.00-2.00
+- **Buttons:** R0.25-0.50 each
+- **Patches:** R0.50-1.50
 
 **Daily Income:**
 - 10-20 small repairs
-- **Profit:** $10-30 per day
+- **Profit:** R10-30 per day
 
 ---
 
@@ -48,16 +48,16 @@
 **What You Need:**
 - **Sewing machine** - Essential
 - **Measuring tape, pins, chalk**
-- **Money to start:** $50-100 (used machine OK)
+- **Money to start:** R50-100 (used machine OK)
 
 **Pricing:**
-- **Simple alteration:** $2-5
-- **Complex alteration:** $5-10
-- **Restyling:** $10-20
+- **Simple alteration:** R2-5
+- **Complex alteration:** R5-10
+- **Restyling:** R10-20
 
 **Profit:**
 - 5-10 alterations daily
-- **Income:** $20-50 per day
+- **Income:** R20-50 per day
 
 ---
 
@@ -75,14 +75,14 @@
 - **Good sewing machine**
 - **Patterns** - Learn from existing clothes
 - **Fabric knowledge**
-- **Money to start:** $100-200
+- **Money to start:** R100-200
 
 **Pricing Example (School Uniform):**
-- **Fabric:** $5-8
-- **Thread/notions:** $1-2
-- **Your labor:** $5-10
-- **Charge customer:** $15-25
-- **Profit:** $4-10 per uniform
+- **Fabric:** R5-8
+- **Thread/notions:** R1-2
+- **Your labor:** R5-10
+- **Charge customer:** R15-25
+- **Profit:** R4-10 per uniform
 
 ---
 
@@ -150,7 +150,7 @@
 
 ## 🛠️ Equipment Needed
 
-### Starting Out ($20-40):
+### Starting Out (R20-40):
 - Hand needles (various sizes)
 - Thread (basic colors: black, white, navy, brown)
 - Scissors
@@ -158,14 +158,14 @@
 - Pins
 - Chalk/fabric marker
 
-### Growing ($50-100):
+### Growing (R50-100):
 - Used sewing machine
 - More thread colors
 - Zipper assortment
 - Button collection
 - Iron (important!)
 
-### Established ($100-200):
+### Established (R100-200):
 - Good sewing machine
 - Complete thread set
 - Professional scissors
@@ -217,19 +217,19 @@
 ### Sample Price List:
 
 **Repairs:**
-- Small tear: $0.50-1.00
-- Zipper: $1.00-2.00
-- Hem: $1.00-2.00
+- Small tear: R0.50-1.00
+- Zipper: R1.00-2.00
+- Hem: R1.00-2.00
 
 **Alterations:**
-- Take in/out: $2.00-5.00
-- Shorten/lengthen: $2.00-5.00
+- Take in/out: R2.00-5.00
+- Shorten/lengthen: R2.00-5.00
 
 **New Items:**
-- Child's dress: $8-15
-- Adult shirt: $10-20
-- Adult pants: $12-25
-- Suit: $40-80
+- Child's dress: R8-15
+- Adult shirt: R10-20
+- Adult pants: R12-25
+- Suit: R40-80
 
 ---
 
@@ -349,10 +349,10 @@
 ## 📊 Success Example
 
 **Maria's Story:**
-- **Month 1:** Hand sewing, $10-15/day
-- **Month 3:** Saved $80, bought used machine
-- **Month 4:** Repairs and alterations, $20-30/day
-- **Month 6:** School uniform contracts, $40-60/day
+- **Month 1:** Hand sewing, R10-15/day
+- **Month 3:** Saved R80, bought used machine
+- **Month 4:** Repairs and alterations, R20-30/day
+- **Month 6:** School uniform contracts, R40-60/day
 - **Month 12:** Hired helper, opened small shop
 
 ---

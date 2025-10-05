@@ -292,7 +292,7 @@
 **Weekly Production:**
 - 5-6 working days
 - 400-500 bricks per week
-- Profit: $80-150 per week
+- Profit: R80-150 per week
 
 ---
 
@@ -301,39 +301,39 @@
 ### Initial Investment:
 
 **Tools (One-time):**
-- Wooden mold: $5-10 (or build free)
-- Shovel: $8-12
-- Buckets (2): $4-6
-- Mixing hoe: $5-8
-- **Total: $22-36**
+- Wooden mold: R5-10 (or build free)
+- Shovel: R8-12
+- Buckets (2): R4-6
+- Mixing hoe: R5-8
+- **Total: R22-36**
 
 **Materials (Per 100 bricks):**
-- Clay soil: $0-2 (if you dig yourself)
-- Straw: $2-3
-- Water: $0.50-1
-- **Total: $2.50-6 per 100 bricks**
+- Clay soil: R0-2 (if you dig yourself)
+- Straw: R2-3
+- Water: R0.50-1
+- **Total: R2.50-6 per 100 bricks**
 
 ### Revenue & Profit:
 
 **Selling Price (varies by location):**
-- Low-end: $0.30 per brick
-- Mid-range: $0.40 per brick
-- High-end: $0.50 per brick
+- Low-end: R0.30 per brick
+- Mid-range: R0.40 per brick
+- High-end: R0.50 per brick
 
 **Profit Calculation (100 bricks):**
 ```
-Cost: $5 (materials)
-Sell at $0.40 each: $40
-Profit: $35
-Profit per brick: $0.35
+Cost: R5 (materials)
+Sell at R0.40 each: R40
+Profit: R35
+Profit per brick: R0.35
 ```
 
 **Monthly Income (working 6 days/week):**
-- Week 1: 400 bricks = $140-160 profit
-- Week 2: 500 bricks = $175-200 profit
-- Week 3: 500 bricks = $175-200 profit
-- Week 4: 500 bricks = $175-200 profit
-- **Total: $665-760 per month**
+- Week 1: 400 bricks = R140-160 profit
+- Week 2: 500 bricks = R175-200 profit
+- Week 3: 500 bricks = R175-200 profit
+- Week 4: 500 bricks = R175-200 profit
+- **Total: R665-760 per month**
 
 ---
 
@@ -490,25 +490,25 @@ Profit per brick: $0.35
 - **Production:** 30-50 bricks/day
 - **Focus:** Learn and perfect technique
 - **Goal:** Make consistent quality
-- **Income:** $150-250
+- **Income:** R150-250
 
 ### Month 2: Efficiency
 - **Production:** 60-80 bricks/day
 - **Focus:** Speed up process
 - **Improvement:** Better organization, more molds
-- **Income:** $300-450
+- **Income:** R300-450
 
 ### Month 3: Expansion
 - **Production:** 100-150 bricks/day
 - **Focus:** Hire part-time helper
-- **Investment:** Pay helper $10-15/day
-- **Income:** $500-700
+- **Investment:** Pay helper R10-15/day
+- **Income:** R500-700
 
 ### Month 6: Established Business
 - **Production:** 200-300 bricks/day
 - **Setup:** Full-time helper
 - **Investment:** Consider moving to fired bricks
-- **Income:** $800-1200
+- **Income:** R800-1200
 
 ### Month 12: Growth Options
 - **Option A:** Stay with adobe, hire 2-3 workers
@@ -523,28 +523,28 @@ Profit per brick: $0.35
 ### Example 1: James - Started Small
 
 **Month 1:**
-- Borrowed $30 for tools
+- Borrowed R30 for tools
 - Made 30 bricks/day
 - Sold to neighbors building houses
-- Profit: $180 first month
+- Profit: R180 first month
 
 **Month 3:**
 - Built 3 molds (faster production)
 - 80 bricks/day
 - Regular customers
-- Profit: $480
+- Profit: R480
 
 **Month 6:**
 - Hired cousin to help
 - 150 bricks/day
 - Supplying 2 construction sites
-- Profit: $750 (after helper wages)
+- Profit: R750 (after helper wages)
 
 **Month 12:**
-- Saved $500
+- Saved R500
 - Built small kiln
 - Now making fired bricks too
-- Profit: $1200/month
+- Profit: R1200/month
 
 ### Example 2: Mary - Weekend Side Business
 
@@ -552,19 +552,19 @@ Profit per brick: $0.35
 - Full-time job during week
 - Made bricks Saturdays
 - 50 bricks per Saturday
-- Extra income: $100-150/month
+- Extra income: R100-150/month
 
 **After 6 months:**
 - Word spread about quality
 - Pre-orders for weekends
 - Sometimes worked Sunday too
-- Extra income: $250-350/month
+- Extra income: R250-350/month
 
 **After 1 year:**
 - Saved enough to leave job
 - Full-time brick making
 - Started with customer base
-- Now earning $600-800/month
+- Now earning R600-800/month
 
 ---
 

@@ -20,7 +20,7 @@
 **What You Need:**
 - **Space:** Room in home, small window, or kiosk
 - **Stock:** Start small - most needed items
-- **Money to start:** $50-150
+- **Money to start:** R50-150
 
 **How to Start:**
 1. **Survey neighbors** - What do they need?
@@ -30,10 +30,10 @@
 5. **Record everything** - What sells, what doesn't
 
 **Daily Profit:**
-- Buy: $50 stock
+- Buy: R50 stock
 - Mark up: 20-30%
-- Sell: $60-65
-- **Profit:** $10-15 per day (starting)
+- Sell: R60-65
+- **Profit:** R10-15 per day (starting)
 - **Reinvest** to grow stock
 
 ---
@@ -54,7 +54,7 @@
 - **Space:** Dedicated room or structure
 - **Shelving:** Display products
 - **Security:** Lock, possibly burglar bars
-- **Money to start:** $200-500
+- **Money to start:** R200-500
 
 **How to Start:**
 1. **Location research** - Where are customers?
@@ -64,10 +64,10 @@
 5. **Build relationships** - Know your customers
 
 **Daily Profit:**
-- **Stock:** $300-500
-- **Sales:** $50-100 daily
+- **Stock:** R300-500
+- **Sales:** R50-100 daily
 - **Profit margin:** 20-30%
-- **Profit:** $10-30 per day
+- **Profit:** R10-30 per day
 
 ---
 
@@ -80,25 +80,25 @@
 - Fresh produce daily
 - Higher turnover
 - Need regular supply
-- **Start:** $50-100
+- **Start:** R50-100
 
 **Stationery Shop:**
 - Near schools
 - Seasonal peaks
 - Long-lasting stock
-- **Start:** $100-200
+- **Start:** R100-200
 
 **Hardware/Tools:**
 - Construction materials
 - Tools and supplies
 - Higher profit margin
-- **Start:** $200-400
+- **Start:** R200-400
 
 **Phone Accessories:**
 - Airtime, chargers, cases
 - Fast selling items
 - Urban/busy areas
-- **Start:** $100-200
+- **Start:** R100-200
 
 ---
 
@@ -157,8 +157,8 @@
 - Typical markup: 20-40%
 
 **Example:**
-- Sugar (1kg): Buy $0.80, Sell $1.00 = $0.20 profit (25%)
-- Soap: Buy $0.60, Sell $0.80 = $0.20 profit (33%)
+- Sugar (1kg): Buy R0.80, Sell R1.00 = R0.20 profit (25%)
+- Soap: Buy R0.60, Sell R0.80 = R0.20 profit (33%)
 
 **Pricing Strategy:**
 - Common items: Lower markup (compete)
@@ -324,10 +324,10 @@ Profit today: $___
 ## 🌟 Success Example
 
 **Sarah's Shop:**
-- **Month 1:** $100 stock, home window, $8-12/day profit
-- **Month 3:** $250 stock, small kiosk, $15-25/day profit
-- **Month 6:** $500 stock, more items, $25-40/day profit
-- **Month 12:** $1000 stock, hired helper, $50-80/day profit
+- **Month 1:** R100 stock, home window, R8-12/day profit
+- **Month 3:** R250 stock, small kiosk, R15-25/day profit
+- **Month 6:** R500 stock, more items, R25-40/day profit
+- **Month 12:** R1000 stock, hired helper, R50-80/day profit
 
 **Keys to Success:**
 - Reinvested most profit
@@ -340,10 +340,10 @@ Profit today: $___
 
 ## 📊 Shop Financial Planning
 
-### Starting Capital Breakdown ($200):
-- Stock: $150 (75%)
-- Shelving/containers: $30 (15%)
-- Emergency fund: $20 (10%)
+### Starting Capital Breakdown (R200):
+- Stock: R150 (75%)
+- Shelving/containers: R30 (15%)
+- Emergency fund: R20 (10%)
 
 ### Growth Strategy:
 - **Month 1:** Reinvest 70% profit
