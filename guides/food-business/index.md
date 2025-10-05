@@ -1,8 +1,10 @@
 # 🍲 Food Business Guide
 
-## Make Money Preparing and Selling Food
+## Make Money Preparing and Selling Food in Bela Bela
 
 **Everyone needs to eat every day!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - a busy tourist town with hot springs, hotels, and steady customer flow from both locals and visitors.
 
 ---
 
@@ -170,21 +172,30 @@
 
 ---
 
-## 🏪 Best Locations to Sell
+## 🏪 Best Locations to Sell in Bela Bela
 
-1. **Busy roads** - Morning and evening traffic
-2. **Market entrance** - People shopping
-3. **Bus/taxi stops** - Waiting passengers
-4. **Schools/colleges** - Break times
-5. **Offices** - Lunch time
-6. **Construction sites** - Worker meals
-7. **Events** - Sports, concerts, gatherings
+1. **Near hot springs entrance** - High tourist traffic
+2. **Bela Bela CBD** - Morning and evening locals
+3. **Market square** - Saturday market days
+4. **N1 highway stops** - Travelers passing through
+5. **Taxi rank area** - Busy with commuters
+6. **Near lodges and hotels** - Workers and guests
+7. **Sports grounds** - During events and weekends
+8. **Industrial area** - Lunch time for workers
+
+**Bela Bela Advantages:**
+- **Tourist town** - Consistent visitor demand
+- **Holiday destination** - Peak seasons bring crowds
+- **Transit point** - N1 highway brings travelers
+- **Events** - Regular sports and cultural events
+- **Growing population** - New developments expanding
 
 **Tips:**
-- **Get permission** - Ask area owner/authority
-- **Arrive early** - Get good spot
-- **Keep clean** - Health = customers trust
-- **Be friendly** - Good service = repeat customers
+- **Get permission** - Municipality or property owner
+- **Arrive early** - Get good spot before others
+- **Keep clean** - Health inspectors check regularly
+- **Be friendly** - Tourists appreciate good service
+- **Learn basic English** - Many tourists from other provinces
 
 ---
 

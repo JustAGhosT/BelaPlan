@@ -1,8 +1,10 @@
 # 🔨 Carpentry Guide
 
-## Make Money Working With Wood
+## Make Money Working With Wood in Bela Bela
 
 **Build furniture, doors, windows - things people always need!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - with growing residential developments and tourism infrastructure creating steady demand for carpentry.
 
 ---
 
@@ -210,11 +212,13 @@
 ## 🎯 Finding Customers
 
 ### Marketing:
-1. **Word of mouth** - Best advertising
+1. **Word of mouth** - Best advertising in Bela Bela
 2. **Show samples** - Keep photos of work
 3. **Community** - Church, mosque, meetings
 4. **Schools/offices** - They need furniture
-5. **New houses** - Find construction sites
+5. **New houses** - Find construction sites in new developments
+6. **Lodges** - Hotels and guesthouses need furniture repairs/custom pieces
+7. **WhatsApp** - Join Bela Bela business groups
 
 ### Building Reputation:
 - **Quality work** - Better than quick work
@@ -222,6 +226,14 @@
 - **Fair price** - Not cheapest, not expensive
 - **Clean work area** - Professional appearance
 - **Guarantee** - Fix problems free
+
+### Bela Bela Market Opportunities:
+- **New residential developments** - Growing town needs furniture
+- **Lodge refurbishments** - Tourism businesses upgrade regularly
+- **Hot Springs Resort** - Maintenance and custom work
+- **Schools** - Desks and benches needed
+- **Farmhouses** - Surrounding farming community
+- **Holiday homes** - Second homes being built in area
 
 ### Specializations:
 - School furniture (desks, benches)

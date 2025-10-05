@@ -1,8 +1,10 @@
 # 🌾 Farming Guide
 
-## Make Money Growing Food and Crops
+## Make Money Growing Food and Crops in Bela Bela
 
-**Everyone needs food! Grow what your community needs.**
+**Everyone needs food! Grow what your community needs in Bela Bela, Limpopo.**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - considering local climate (hot summers, mild winters), seasonal rainfall, and available water resources.
 
 ---
 
@@ -132,22 +134,33 @@
 
 ---
 
-## 🌱 Year-Round Business Plan
+## 🌱 Year-Round Business Plan for Bela Bela
 
-### Rainy Season Focus:
-- Maize, beans, peppers
-- Plant early in season
+### Rainy Season (November-March):
+- **Best for:** Maize, beans, peppers, pumpkins
+- Plant early in season (November)
+- Take advantage of summer rains
 - Focus on staple crops
+- Watch for hail storms (common in December-January)
 
-### Dry Season (with irrigation):
-- Leafy greens, tomatoes, onions
-- Higher prices
-- Plant near water source
+### Dry Season (April-October) with irrigation:
+- **Best for:** Leafy greens, tomatoes, onions, carrots
+- Higher market prices
+- Plant near water source or use borehole
+- Bela Bela has natural hot springs - consider location
+- Less pest pressure in cooler months
+
+### Bela Bela Climate Tips:
+- **Hot summers:** 30-40°C (shade sensitive crops)
+- **Mild winters:** 5-20°C (some crops continue growing)
+- **Frost rare:** But can occur June-July (protect seedlings)
+- **Water access:** Essential - use borehole, municipal water, or collect rainwater
 
 ### All Year:
 - Keep something growing always
 - Rotate crops
 - Don't plant same thing in same spot twice
+- Mulch heavily to conserve water (important in Bela Bela heat)
 
 ---
 
@@ -188,11 +201,18 @@
 ## 🎯 Finding Customers
 
 ### Where to Sell:
-1. **Local market** - Fresh vegetables daily
-2. **Neighbors** - Door to door
-3. **Restaurants** - Regular orders
-4. **Schools** - Bulk orders
-5. **Roadside stand** - Near your farm
+1. **Bela Bela local market** - Fresh vegetables daily
+2. **Neighbors and lodges** - Door to door (many tourists visit hot springs)
+3. **Restaurants** - Regular orders (tourist industry strong)
+4. **Guesthouses and B&Bs** - Bela Bela has many accommodation facilities
+5. **Roadside stand** - Near your farm or on R101 route
+6. **Polokwane markets** - Larger city market (70km away)
+
+### Bela Bela Market Advantages:
+- **Tourist town** - Consistent demand from visitors
+- **Hot springs resort** - Restaurants and hotels need fresh produce
+- **Growing town** - New residential developments
+- **N1 highway access** - Easy transport to larger markets
 
 ### Pricing:
 - **Check market prices** - Visit market weekly

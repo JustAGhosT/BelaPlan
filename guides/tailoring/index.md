@@ -1,8 +1,10 @@
 # 👔 Tailoring Guide
 
-## Make Money Sewing and Repairing Clothes
+## Make Money Sewing and Repairing Clothes in Bela Bela
 
 **Everyone needs clothes made and repaired!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - considering local demand, school uniform seasons, and tourist accommodation needs.
 
 ---
 
@@ -177,18 +179,27 @@
 ## 🎯 Finding Customers
 
 ### Advertise:
-1. **Word of mouth** - Tell everyone
+1. **Word of mouth** - Tell everyone in Bela Bela
 2. **Sign at home** - "Tailoring Services Here"
 3. **Church/mosque** - Announce your services
-4. **Schools** - Uniform season (Jan/Sept)
-5. **Flyers** - At markets, community boards
+4. **Schools** - Uniform season (January/September) - Bela Bela Primary and Secondary Schools
+5. **Flyers** - At Hot Springs Resort, lodges, community boards
+6. **WhatsApp groups** - Bela Bela community groups
+7. **Lodge staff** - Hotel and guesthouse workers need uniforms
 
 ### Customer Service:
 - **On time** - Promise realistic deadlines
 - **Good quality** - Check your work twice
-- **Fair prices** - Know market rates
+- **Fair prices** - Know market rates in Bela Bela
 - **Friendly** - People remember how you treat them
 - **Guarantee** - Fix mistakes free
+
+### Bela Bela Market Opportunities:
+- **School uniforms** - Multiple schools in area (peak Jan/Sept)
+- **Lodge staff uniforms** - Hotels need regular tailoring services
+- **Tourist alterations** - Visitors may need quick fixes
+- **Traditional wear** - Cultural events and celebrations
+- **Workwear** - Growing business sector needs uniforms
 
 ### Specializations:
 - School uniforms (seasonal rush)

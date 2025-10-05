@@ -1,8 +1,10 @@
 # 🏪 Shop Keeping Guide
 
-## Make Money Running a Small Shop
+## Make Money Running a Small Shop in Bela Bela
 
 **Everyone needs to buy things daily!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - considering local demand, tourist traffic, and growing residential areas.
 
 ---
 
@@ -137,11 +139,12 @@
 
 ### Buying Stock:
 
-**Where to Buy:**
-1. **Wholesale market** - Cheapest prices
-2. **Distributors** - Convenient, may deliver
-3. **Cash and carry** - Bulk purchases
-4. **Manufacturers** - Direct for large quantities
+**Where to Buy in Bela Bela Area:**
+1. **Makro/Game Modimolle** - Wholesale prices (30km away)
+2. **Shoprite/Boxer** - Cash and carry section
+3. **Local wholesalers** - Bela Bela CBD
+4. **Polokwane wholesalers** - Bulk purchases (70km)
+5. **Distributor trucks** - Come to Bela Bela weekly
 
 **Tips:**
 ✅ Buy early morning (best selection)
@@ -149,6 +152,14 @@
 ✅ Compare prices (different suppliers)
 ✅ Check quality (expired, damaged)
 ✅ Keep receipts (return if problem)
+✅ Consider transport costs to Modimolle/Polokwane
+
+### Bela Bela Shop Opportunities:
+- **Tourist area** - Visitors need snacks, drinks, basics
+- **Growing town** - New residential developments
+- **Lodge workers** - Regular customers near accommodations
+- **Farmworkers** - Surrounding farms need supply points
+- **N1 travelers** - Passing traffic stops for supplies
 
 ### Pricing:
 

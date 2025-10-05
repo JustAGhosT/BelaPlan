@@ -1,8 +1,10 @@
 # 🚲 Transport Guide
 
-## Make Money Moving People and Goods
+## Make Money Moving People and Goods in Bela Bela
 
 **Everyone needs to get somewhere or move things!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - a tourist town with hot springs, hotels, and steady demand for local transport services.
 
 ---
 
@@ -208,21 +210,40 @@
 
 ## 🎯 Finding Customers
 
-### Where to Find Work:
+### Where to Find Work in Bela Bela:
 
 **Bicycle/Motorcycle:**
-1. Market entrances
-2. Bus/taxi stations
-3. Hotels/guesthouses
-4. Shops and offices
-5. Hospital/clinics
+1. Bela Bela market (Saturdays especially)
+2. Taxi rank area
+3. Hotels/guesthouses (guest transport)
+4. Hot Springs Resort entrance
+5. CBD shops and offices
+6. Clinic and hospital
+7. N1 service stations
 
 **Pickup/Truck:**
-1. Hardware stores
+1. Hardware stores in Bela Bela
 2. Furniture shops
-3. Construction sites
-4. Moving companies
-5. Wholesale markets
+3. Construction sites (new developments)
+4. Farms (surrounding agricultural area)
+5. Moving companies need contractors
+6. Lodge supply deliveries
+
+**Bela Bela Transport Opportunities:**
+- **Tourist transport** - Hotel to attractions
+- **Hot springs shuttle** - Accommodation to resort
+- **Shopping assistance** - Elderly residents need help
+- **Building materials** - Construction boom
+- **Farm supplies** - Rural agricultural community
+- **N1 breakdown assistance** - Highway travelers
+- **Event transport** - Sports and cultural events
+
+**Regulations:**
+- Operating license from Modimolle-Mookgophong Municipality
+- Valid driver's license for motorized transport
+- Insurance required (especially for passengers)
+- Taxi permits if regular passenger service
+- Vehicle roadworthy certificate
 
 **General:**
 - **Phone list** - Regular customers

@@ -1,8 +1,10 @@
 # 🔧 Repairs Guide
 
-## Make Money Fixing Things
+## Make Money Fixing Things in Bela Bela
 
 **People need things fixed - cheaper than buying new!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - a busy town with tourists, residents, and surrounding farms all needing repair services.
 
 ---
 
@@ -199,19 +201,27 @@
 
 ## 🎯 Finding Customers
 
-### Best Locations:
-1. **Market entrance** - High foot traffic
-2. **Bus/taxi station** - Waiting customers
-3. **Near schools** - Bicycles, bags
-4. **Busy street corner** - Visible
-5. **Outside phone/electronic shop** - Repairs while they shop
+### Best Locations in Bela Bela:
+1. **Market entrance** - Saturday market has high foot traffic
+2. **Taxi rank** - Waiting customers with time
+3. **Near schools** - Bicycles, bags, shoes
+4. **CBD shops** - Visible location
+5. **Hot Springs area** - Tourist and visitor flow
+6. **Industrial area** - Worker bicycles and equipment
 
 ### Marketing:
-- **Signs** - Clear, visible
-- **Word of mouth** - Best advertising
-- **Quality work** - Reputation spreads
+- **Signs** - Clear, visible "Repairs Here"
+- **Word of mouth** - Best advertising in small town
+- **Quality work** - Reputation spreads in Bela Bela
 - **Fair prices** - Not cheapest, not expensive
-- **Fast service** - When possible
+- **Fast service** - When possible, same day
+
+### Bela Bela Market Opportunities:
+- **Tourist items** - Visitors need quick fixes (shoes, bags, phones)
+- **Lodge maintenance** - Hotels need regular repair services
+- **Bicycle commuters** - Many workers use bicycles
+- **Farm equipment** - Surrounding farms need repairs
+- **Holiday makers** - Peak seasons bring repair needs
 
 ### Building Reputation:
 ✅ Fix it right first time

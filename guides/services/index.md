@@ -1,8 +1,10 @@
 # 🛠️ Services Guide
 
-## Make Money Offering Your Skills and Time
+## Make Money Offering Your Skills and Time in Bela Bela
 
 **People need help with many tasks - use your time to earn!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - a tourist town with hotels, lodges, and growing residential areas creating consistent demand for services.
 
 ---
 
@@ -316,7 +318,7 @@
 
 ## 🎯 Finding Customers
 
-### Marketing Your Services:
+### Marketing Your Services in Bela Bela:
 
 **Word of Mouth:**
 - Tell everyone what you do
@@ -328,12 +330,22 @@
 - Post on community boards
 - Tell at market/shops
 - Network at gatherings
+- Join Bela Bela WhatsApp groups
 
 **Direct Approach:**
-- Knock on doors in your area
-- Introduce yourself politely
+- Knock on doors in residential areas
+- Introduce yourself politely at lodges
 - Offer first service discount
 - Leave contact information
+- Visit new housing developments
+
+**Target Markets:**
+- **Hotels and lodges** - Need regular cleaning/maintenance
+- **Holiday homes** - Owners need caretakers
+- **Elderly residents** - Need assistance with tasks
+- **Working professionals** - Need domestic help
+- **Tourists** - Laundry and convenience services
+- **Hot Springs Resort** - Service contracts available
 
 **Build Reputation:**
 ✅ Always on time
@@ -341,6 +353,7 @@
 ✅ Go extra mile
 ✅ Be honest and trustworthy
 ✅ Professional appearance
+✅ Get written references from satisfied customers
 
 ---
 

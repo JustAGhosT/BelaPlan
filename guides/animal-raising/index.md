@@ -1,8 +1,10 @@
 # 🐓 Animal Raising Guide
 
-## Make Money From Livestock
+## Make Money From Livestock in Bela Bela
 
 **Animals give meat, eggs, milk, and more animals to sell!**
+
+**Location Context:** This guide is tailored for **Bela Bela, Limpopo, South Africa** - considering local climate, available grazing, water access, and market demand from both residents and tourists.
 
 ---
 
@@ -157,13 +159,14 @@
 
 ---
 
-## 🏥 Keeping Animals Healthy
+## 🏥 Keeping Animals Healthy in Bela Bela
 
 ### Daily Care:
-- **Fresh water** - Always available
+- **Fresh water** - Always available (critical in hot Bela Bela summers)
 - **Enough food** - Morning and evening
 - **Clean housing** - Remove waste regularly
 - **Check health** - Look for sick animals
+- **Heat management** - Provide shade (30-40°C summer temperatures)
 
 ### Warning Signs (Sick Animal):
 - Not eating
@@ -171,14 +174,23 @@
 - Diarrhea
 - Coughing
 - Lying down all time
+- Heat stress (panting excessively in summer)
 
-**Action:** Separate from others, ask experienced person or vet
+**Action:** Separate from others, contact local vet or agricultural extension officer
 
 ### Prevention:
-✅ **Vaccinate** - Ask agricultural office about vaccines
-✅ **Clean housing** - Prevent disease
+✅ **Vaccinate** - Contact Modimolle-Mookgophong Municipality agricultural office
+✅ **Clean housing** - Prevent disease (more important in hot climate)
 ✅ **Good food** - Healthy animals resist disease
 ✅ **Quarantine new animals** - 2 weeks separate before mixing
+✅ **Shade structures** - Essential for Bela Bela heat
+✅ **Water supply** - Plan for dry winter months
+
+### Local Veterinary Support:
+- Bela Bela Veterinary Clinic
+- Agricultural extension officers (Modimolle-Mookgophong Municipality)
+- State Veterinary Office (Polokwane)
+- Farmers' cooperatives in the area
 
 ---
 
@@ -187,16 +199,26 @@
 ### Where to Sell:
 
 **Eggs/Milk:**
-- Neighbors
-- Local shops
+- Neighbors and lodges
+- Local shops and spaza shops
+- Guesthouses and B&Bs (Bela Bela has many)
+- Hot Springs Resort area
 - Regular customers (deliver weekly)
-- Market
+- Bela Bela Saturday market
 
 **Meat/Live Animals:**
-- Butchers
-- Market day
+- Butchers in Bela Bela
+- Saturday market day
 - Direct to families (holidays/celebrations)
 - Other farmers (breeding animals)
+- Restaurants (especially game lodges in area)
+- Modimolle market (nearby town)
+
+### Bela Bela Market Advantages:
+- **Tourist demand** - Hotels and lodges need consistent supply
+- **Growing population** - New residential areas developing
+- **Holiday destination** - Peak demand during school holidays
+- **Farmland surroundings** - Easy to source feed and grazing
 
 ### Pricing:
 - **Check market** - Know current prices
