@@ -10,6 +10,8 @@
 
 ## 🎯 Best Animals to Start With
 
+**[→ Complete Poultry Guide](poultry-guide.md)** - Detailed guide for layers and broilers in Bela Bela
+
 ### 1. Chickens (Easiest Start) 🐔
 
 #### Layers (Egg Production)

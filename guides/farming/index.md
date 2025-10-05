@@ -10,6 +10,8 @@
 
 ## 🎯 Best Crops to Start With
 
+**[→ Complete Vegetable Crop Guide](vegetable-crops.md)** - Detailed growing instructions for profitable vegetables in Bela Bela climate
+
 ### Quick-Growing Vegetables (1-3 months) 🥬
 
 #### Leafy Greens (Fastest Money)

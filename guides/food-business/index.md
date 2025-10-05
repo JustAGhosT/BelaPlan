@@ -10,6 +10,8 @@
 
 ## 🎯 Food Business Options
 
+**[→ Food Safety & Licensing Guide](food-safety-licensing.md)** - Legal requirements and hygiene standards for Bela Bela
+
 ### 1. Street Food/Snacks 🌮
 **Quick profit, low investment**
 
